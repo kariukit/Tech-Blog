@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/layc41/tech-blog.git"
+    "url": "git+https://github.com/kariukit/tech-blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/layc41/tech-blog/issues"
+    "url": "https://github.com/kariukit/tech-blog/issues"
   },
-  "homepage": "https://github.com/layc41/tech-blog#readme",
+  "homepage": "https://github.com/kariukit/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-session-sequelize": "^7.0.4",
